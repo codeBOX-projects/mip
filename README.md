@@ -7,6 +7,8 @@
 ```git clone https://github.com/codeBOX-projects/mip```
 ### **| enter directory mip**
 ```cd mip```
+### **| install requirements**
+```pip install -r requirements.txt ```
 ### **| lunch by :**
 ```python mip.py```
 
