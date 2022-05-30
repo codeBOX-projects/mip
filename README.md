@@ -4,7 +4,7 @@
 ---
 > ## Install & Usage :
 ### **| clone repository :**
-```git clone https://github.com/codeBOX-projects/mip```
+```git clone https://github.com/codeBOX-projects/mip.git```
 ### **| enter directory mip**
 ```cd mip```
 ### **| install requirements**
