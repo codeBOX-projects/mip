@@ -1,3 +1,5 @@
+#!/bin/env python3
+
 import subprocess, termcolor, argparse
 
 parser = argparse.ArgumentParser(description="[?] Usage: "+ termcolor.colored("python3 public_ip.py", 'green'))
